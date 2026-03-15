@@ -32,7 +32,7 @@ git clone https://github.com/VikrantSingh01/adaptive-cards-ai-designer.git
 ### From Monorepo
 
 ```bash
-git clone https://github.com/VikrantSingh01/adaptive-cards-ai-builder.git
+git clone https://github.com/VikrantSingh01/adaptive-cards-mcp.git
 ```
 
 Then load `packages/browser-extension/` as an unpacked extension.
